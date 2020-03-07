@@ -1,0 +1,3 @@
+export const SET_WATERLEVEL = "SET_WATERLEVEL"
+export const SET_SIZE = "SET_SIZE"
+export const SET_WATTER_TARGET = "SET_WATTER_TARGET"
